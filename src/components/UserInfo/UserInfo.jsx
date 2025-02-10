@@ -3,7 +3,7 @@ import './UserInfo.scss';
 
 export const UserInfo = ({ user }) => {
   if (!user || !user.email) {
-    return null; 
+    return null;
   }
 
   return (

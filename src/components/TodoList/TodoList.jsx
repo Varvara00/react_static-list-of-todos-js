@@ -1,5 +1,5 @@
 // Add the required props
-import './TodoList.scss'
+import './TodoList.scss';
 import React from 'react';
 import { TodoInfo } from '../TodoInfo/TodoInfo';
 
